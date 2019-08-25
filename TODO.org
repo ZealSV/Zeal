@@ -1,0 +1,10 @@
+
+* Zealsv Landing Page
+- [X] Have a gif ready
+- [X] Purchase Domain
+- [X] Set up git repo
+- [X] Set up gh-pages branch
+- [X] Have gif in html
+- [X] Update CNAME
+- [ ] Make it live and Profit
+
